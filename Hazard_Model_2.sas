@@ -43,14 +43,14 @@ IF indfmt='INDL' and datafmt='STD' and popsrc='D' and fic='USA' and consol='C';
 
 	/***************************************************** Equity Leverage Ratio ****************************************************************************/
 	/********************************************************************************************************************************************************
-	  Equity Debt to ratio indicates how much debt a company is using to finance its assets relative to the amount of value represented in shareholders’ 
+	  Equity Debt to ratio indicates how much debt a company is using to finance its assets relative to the amount of value represented in shareholdersâ€™ 
 	  equity. The total liabilities as a part of Shareholder's equity is a potential measure for numerator of the bankruptcy of the given firm.
 	*********************************************************************************************************************************************************/
 	ELEVERAGE = LT/SEQ;
 
 	/****************************************************** Liquidity Ratio *********************************************************************************/
 	/********************************************************************************************************************************************************
-	  The Working Capital to Total Assets ratio measures a company’s ability to cover its short term financial obligations. Net Working Capital to Total 
+	  The Working Capital to Total Assets ratio measures a companyâ€™s ability to cover its short term financial obligations. Net Working Capital to Total 
 	  Assets ratio is defined as the net current assets (or net working capital) of a corporation expressed as a percentage of its total assets.
 	*********************************************************************************************************************************************************/	
 	
